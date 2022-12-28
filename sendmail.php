@@ -20,13 +20,13 @@
             $mail->isSMTP();
             $mail->Host       = 'smtp.gmail.com';
             $mail->SMTPAuth   = true;
-            $mail->Username   = 'emailAnda@gmail.com';
-            $mail->Password   = 'passwordEmailAnda';
+            $mail->Username   = 'rifaldihidayat282@gmail.com';
+            $mail->Password   = 'GantenG123';
             $mail->SMTPSecure = 'ssl';
             $mail->Port       = 465;
 
             //Recipients
-            $mail->setFrom('emailAnda@gmail.com', 'Pesan dari Form');
+            $mail->setFrom('rifaldihidayat282@gmail.com', 'Pesan dari Form');
             $mail->addAddress("$email");
             $mail->addReplyTo('no-reply@gmail.com', 'NO Reply');
 
