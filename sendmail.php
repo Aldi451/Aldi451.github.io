@@ -32,12 +32,12 @@
 
             //Content
             $mail->isHTML(true);
-            $mail->Subject = 'Input dari Form';
-            $mail->Body    = "<h1>Kamu telah mengisi formulir</h1> Nama kamu adalah $nama";
+            $mail->Subject = 'Ada yang komentar';
+            $mail->Body    = "<h1>Kamu telah mengisi Komentar</h1> Nama kamu adalah $nama";
             $mail->AltBody = 'Data formulir';
 
             $mail->send();
-            echo "Data dari Formulir HTML";
+            echo "Kolom komentar";
         } catch (Exception $e) {
             echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
         }
