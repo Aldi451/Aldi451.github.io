@@ -21,6 +21,6 @@ Saya seorang **Web Developer** yang berminat mendalami **Software Engineering**.
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/aldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldi" height="30" width="40" /></a>
-  <a href="mailto:aldi@email.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aldi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rifaldi-hidayat-19321937b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldi" height="30" width="40" /></a>
+  <a href="mailto:rifaldihidayat282@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aldi" height="30" width="40" /></a>
 </p>
