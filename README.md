@@ -6,7 +6,7 @@ Saya seorang **Web Developer** yang berminat mendalami **Software Engineering**.
 - 🔭 Currently working on: Building responsive web applications
 - 🌱 Currently learning: Software Engineering Best Practices & Architecture
 - 💻 Tech Stack: Python, Java, HTML, CSS, SQL
-- 📫 How to reach me: aldi@email.com
+- 📫 How to reach me: rifaldihidayat282@gmail.com
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
